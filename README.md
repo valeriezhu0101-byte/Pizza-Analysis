@@ -63,7 +63,7 @@ A horizontal bar chart of pizzas with the lowest sales.
 <img width="1028" height="531" alt="Dashboard" src="https://github.com/user-attachments/assets/37a128ad-ee3a-426b-8f10-d6a477217658" />
 
 ## Conclusion & Recommendations
-- The analysis provides a comprehensive view of pizza sales performance. Management can leverage these insights to:
+The analysis provides a comprehensive view of pizza sales performance. Management can leverage these insights to:
 - Focus marketing on high-performing categories.
 - Optimize the menu by reconsidering least-selling pizzas.
 - Plan inventory and staffing based on sales peaks.
