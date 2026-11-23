@@ -79,11 +79,11 @@ Bar charts highlighting the 5 lowest-performing pizzas based on total revenue, n
 - What are the sales trends by day, month, and time of day?
 
 ## Excel Dashboard
-Dashboard Interaction <a href="https://github.com/valeriezhu0101-byte/Pizza-Analysis/blob/main/Pizza%20Sales%20Dashboard.xlsx">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/valeriezhu0101-byte/Pizza-Analysis/blob/main/Pizza%20Sales%20Dashboard.xlsx">View Dashboard</a>
 <img width="1028" height="531" alt="Dashboard" src="https://github.com/user-attachments/assets/37a128ad-ee3a-426b-8f10-d6a477217658" />
 
 ## Python Analysis
-Python Code <a href="https://github.com/valeriezhu0101-byte/Pizza-Analysis/blob/main/Pizza%20Sales%20Analysis%20in%20Python.ipynb">View Python Notebook</a>
+- Python Code <a href="https://github.com/valeriezhu0101-byte/Pizza-Analysis/blob/main/Pizza%20Sales%20Analysis%20in%20Python.ipynb">View Python Notebook</a>
 
 ## Conclusion & Recommendations
 The analysis provides a comprehensive view of pizza sales performance. Management can leverage these insights to:
