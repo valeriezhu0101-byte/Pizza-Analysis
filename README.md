@@ -79,6 +79,7 @@ Bar charts highlighting the 5 lowest-performing pizzas based on total revenue, n
 - What are the sales trends by day, month, and time of day?
 
 ## Excel Dashboard
+Dashboard Interaction <a href="https://github.com/valeriezhu0101-byte/Pizza-Analysis/blob/main/Pizza%20Sales%20Analysis.xlsx">View Dashboard</a>
 <img width="1028" height="531" alt="Dashboard" src="https://github.com/user-attachments/assets/37a128ad-ee3a-426b-8f10-d6a477217658" />
 
 ## Conclusion & Recommendations
